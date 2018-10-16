@@ -1,7 +1,7 @@
 # LibSimTelem
 An easy-to-use, extendable, multi-simulator realtime racing telemetry interfacing library for C# .NET 4.0+
 
-## Excuse you?
+## Excuse me?
 This is a reasonable response to the project desciption. Basically, many modern racing simulator games have
 features that allow information about various aspects of the game to be sent, processed, displayed and/or
 recorded by external applications. This library is meant to simplify access to this data across multiple
