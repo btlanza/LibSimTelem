@@ -1,0 +1,6 @@
+c:\users\btlan\source\repos\LibSimTelem\LibSimTelem\bin\Debug\LibSimTelem.dll
+c:\users\btlan\source\repos\LibSimTelem\LibSimTelem\bin\Debug\LibSimTelem.pdb
+c:\users\btlan\source\repos\LibSimTelem\LibSimTelem\obj\Debug\LibSimTelem.csproj.CoreCompileInputs.cache
+c:\users\btlan\source\repos\LibSimTelem\LibSimTelem\obj\Debug\LibSimTelem.dll
+c:\users\btlan\source\repos\LibSimTelem\LibSimTelem\obj\Debug\LibSimTelem.pdb
+C:\Users\btlan\source\repos\LibSimTelem\LibSimTelem\obj\Debug\LibSimTelem.csprojAssemblyReference.cache
