@@ -19,4 +19,4 @@ the works!
 * Callback-driven approach allows for prompt updates and flexibility in choosing which data should be exposed 
 
 ## Code examples
-### View my demo project at the [LibSimTelemDemo repository](https://github.com/btlanza/LibSimTelemDemo)!
+View my demo project at the [LibSimTelemDemo repository](https://github.com/btlanza/LibSimTelemDemo)!
