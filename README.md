@@ -17,3 +17,6 @@ the works!
 * Uses the UDP interfacing option where available to allow access to data on machines not hosting the game
 * Extendability allows relatively easy implementation of advanced features
 * Callback-driven approach allows for prompt updates and flexibility in choosing which data should be exposed 
+
+## Code examples
+### View my demo project at the [LibSimTelemDemo repository](https://github.com/btlanza/LibSimTelemDemo)!
