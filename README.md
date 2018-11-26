@@ -32,6 +32,7 @@ static void Main(string[] args){
 
     /* Create an instance of and launch the program */
     Program p = new Program();
+    p.Run();
 
 }
 
